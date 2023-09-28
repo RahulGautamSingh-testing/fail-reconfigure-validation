@@ -1,3 +1,3 @@
 # fail-reconfigure-validation
-hello
+hello there
 
